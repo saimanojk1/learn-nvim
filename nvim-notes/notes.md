@@ -17,3 +17,4 @@
 * nvim dap for debugger in the backend
 * Need adapters for each language
 * Check and install for java and try it out
+* https://github.com/jesseduffield/lazygit for git management, install on your dev machine
